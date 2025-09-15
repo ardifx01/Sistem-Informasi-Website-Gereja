@@ -93,7 +93,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal A
 
 1.  **Clone Repository:**
     ```bash
-    git clone [https://github.com/your-username/nama-repo-gereja.git](https://github.com/your-username/nama-repo-gereja.git) # Ganti dengan URL repository Anda
+    git clone [https://github.com/ardifx01/Sistem-Informasi-Website-Gereja.git](https://github.com/ardifx01/Sistem-Informasi-Website-Gereja.git) # Ganti dengan URL repository Anda
     cd nama-repo-gereja
     ```
 
